@@ -1,7 +1,7 @@
         :root {
             --primary-color: grey;
             --secondary-color: white;
-            background-image: url('img/bg1.png');
+            background-image: url('bg1.png');
             background-repeat: no-repeat;
         }
         @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400;500;600;700;800&family=Roboto:wght@100;300;400&display=swap');
